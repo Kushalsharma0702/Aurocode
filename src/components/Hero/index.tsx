@@ -15,9 +15,9 @@ const Hero = () => {
                   Welcome to Aurocode
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Aurocode is a "THE BEST" solution
+                  Aurocode is a THE BEST solution
                   for your business to grow and boom 
-                  the online "Market"
+                  the online Market
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
