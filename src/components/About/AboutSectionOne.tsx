@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                paragraph="Our mission is to empower startups and businesses with cutting-edge web solutions. Discover how our expertise in web design and development can propel your online presence forward."
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Premium quality websites tailored to your business needs." />
+                    <List text="Built with Tailwind CSS for efficient and scalable designs." />
+                    <List text="Lifetime support and updates for seamless operations." />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Powered by Next.js for optimal performance and speed." />
+                    <List text="Comprehensive documentation to guide developers at every step." />
+                    <List text="Designed to be developer-friendly, ensuring easy customization." />
                   </div>
                 </div>
               </div>
